@@ -1,0 +1,8 @@
+export const API_HOST = process.env.REACT_APP_API_URL;
+export const CAPTCHA_KEY = process.env.REACT_APP_GOOGLE_CAPTCHA_KEY;
+export const SMALLEST_UNIT = 100000000;
+export const TOTAL_LIMIT = 10000000000000000;
+export const REACT_APP_VALIDATE_WALLET_ADRESS_CONSTANT =
+  process.env.REACT_APP_VALIDATE_WALLET_ADRESS_CONSTANT;
+export const DATA_ENCRYPT_KEY = process.env.REACT_APP_DATA_ENCRYPT_KEY;
+export const IMAGE_URL = process.env.REACT_APP_IMAGE_URL;
